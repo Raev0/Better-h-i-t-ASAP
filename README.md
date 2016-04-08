@@ -1,2 +1,7 @@
 # Better-h-i-t-ASAP
-Best hit book share from Raevo's book shelf. gl hf!
+This repository name is a pun: 
+-We'd better hit the wall ASAP by reading nice books; 
+-The hit collection share will be delivered as soon as possible;
+
+
+
